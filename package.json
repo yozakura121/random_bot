@@ -1,0 +1,23 @@
+{
+  "name": "random_bot",
+  "version": "1.0.0",
+  "description": "\"# random_bot\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yozakura121/random_bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yozakura121/random_bot/issues"
+  },
+  "homepage": "https://github.com/yozakura121/random_bot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "dotenv": "^6.2.0"
+  }
+}
